@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owen718&show_icons=true&locale=en" alt="owen718" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viewsetting&show_icons=true&locale=en" alt="owen718" /></p>
 
 <!--
 **viewsetting/viewsetting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
